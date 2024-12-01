@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_TARGET_TRACKING
+	bool "target-tracking"
+	help
+	  Includes application that preprocess video and stream it as an analog.
