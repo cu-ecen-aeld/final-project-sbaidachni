@@ -15,4 +15,5 @@ jobs:
           - name: Checkout submodules
             run: git submodule update --init --recursive
           - name: Run full test
+            shell: bash
             run: ./build.sh
