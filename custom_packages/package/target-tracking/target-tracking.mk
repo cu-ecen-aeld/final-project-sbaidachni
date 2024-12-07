@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-TARGET_TRACKING_VERSION = '5fef9592ce4eaa39eafe2b34e96af3a6fe6293ba'
+TARGET_TRACKING_VERSION = '7fa43ed8b2e9917f06ab3a06d48a7600ff86107a'
 TARGET_TRACKING_SITE = 'https://github.com/sbaidachni/linux_video_tracking'
 TARGET_TRACKING_SITE_METHOD = git
 TARGET_TRACKING_GIT_SUBMODULES = YES
